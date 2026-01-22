@@ -353,3 +353,14 @@ footer p, footer small{
   from{ opacity:0; }
   to{ opacity:1; }
 }
+
+#loader-percent{
+  font-size:22px;
+  font-weight:600;
+  margin:10px 0;
+}
+
+.loader-box small{
+  font-size:14px;
+  opacity:0.85;
+}
